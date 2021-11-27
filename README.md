@@ -1,4 +1,4 @@
-# CloudMusic-LevelUp
+# CloudMusic-LevelUp-1
 
 > 网易云音乐刷歌升级脚本，欢迎提 issue 和 PR 帮助增强脚本功能。
 >
